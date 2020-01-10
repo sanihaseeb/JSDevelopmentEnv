@@ -16,5 +16,4 @@ app.listen(port, function(err){
     open('http://localhost:' + port);
   }
 });
-//Checking if git updated
-//Second check..
+
