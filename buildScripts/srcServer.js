@@ -26,6 +26,14 @@ app.get('/users', function(req, res){
     {"id":3, "firstName":"Tina", "lastName":"Lee", "email":"lee.tina@hotmail.com"}
   ]);
 });
+app.get('/employees', function(req, res){
+  res.json([
+    {"id":10, "firstName":"Sam", "lastName":"Matt", "email":"sam@gmail.com"},
+    {"id":20, "firstName":"Tim", "lastName":"Max", "email":"tim@yahoo.com"},
+    {"id":30, "firstName":"Vitori", "lastName":"Laxi", "email":"vitori@hotmail.com"}
+  ]);
+});
+
 app.listen(port, function(err){
   if(err){
     console.log(err);

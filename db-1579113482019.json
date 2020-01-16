@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 676376,
+      "firstName": "Hardy",
+      "lastName": "Schamberger",
+      "email": "Nelle_Wyman44@hotmail.com"
+    },
+    {
+      "id": 13563424,
+      "firstName": "Hassan",
+      "lastName": "Homenick",
+      "email": "Rolando_Ward@yahoo.com"
+    },
+    {
+      "id": 20192034,
+      "firstName": "Koby",
+      "lastName": "Labadie",
+      "email": "Jana.Schaefer@gmail.com"
+    }
+  ],
+  "employees": [
+    {
+      "id": 35498338,
+      "firstName": "Tyrel",
+      "lastName": "Gutkowski",
+      "email": "Meaghan22@gmail.com"
+    },
+    {
+      "id": 13556898,
+      "firstName": "Emerald",
+      "lastName": "Heller",
+      "email": "Emerald_Brown66@yahoo.com"
+    },
+    {
+      "id": 42403764,
+      "firstName": "Anabel",
+      "lastName": "Conn",
+      "email": "Marcelo.Ankunding@gmail.com"
+    },
+    {
+      "id": 42047253,
+      "firstName": "Armando",
+      "lastName": "Ondricka",
+      "email": "Yadira10@hotmail.com"
+    }
+  ]
+}

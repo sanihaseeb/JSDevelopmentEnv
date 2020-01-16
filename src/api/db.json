@@ -1,0 +1,23 @@
+{
+  "users": [],
+  "employees": [
+    {
+      "id": 71096931,
+      "firstName": "Domingo",
+      "lastName": "Walker",
+      "email": "Elenora44@hotmail.com"
+    },
+    {
+      "id": 72025251,
+      "firstName": "Fabiola",
+      "lastName": "Hahn",
+      "email": "Donny_Kihn@gmail.com"
+    },
+    {
+      "id": 48670180,
+      "firstName": "Jerome",
+      "lastName": "Lemke",
+      "email": "Bernadette.OKon@yahoo.com"
+    }
+  ]
+}
